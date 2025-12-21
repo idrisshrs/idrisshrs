@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**idrisshrs/idrisshrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bonjour, je suis Idriss
 
-Here are some ideas to get you started:
+Je suis passionné par la cybersécurité, avec un intérêt particulier pour l'OSINT (Open Source Intelligence) et l'investigation numérique. Mon objectif est de développer des outils efficaces pour l'analyse de données et l'automatisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Compétences Techniques**
+
+* **Langages :** Python, Bash, SQL
+* **OS :** Linux (Debian/Kali), Windows
+* **Intérêts :** OSINT, CTF, Sécurité Réseau, Automatisation
+
+**Actuellement**
+
+Je travaille sur l'amélioration de mes compétences en scripting Python pour l'audit de sécurité et l'apprentissage de méthodologies OSINT avancées.
+
+---
+*N'hésitez pas à explorer mes dépôts pour voir mes projets récents.*<!--
