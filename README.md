@@ -1,29 +1,69 @@
-# root@idrisshrs:~# _
+<div align="center">
 
-### Hello, I'm Idriss Haroussi
-**Systems, Infrastructure & Production Engineer** Bridging robust backend architectures with scalable, high-availability infrastructure. Focused on **Cloud/DevOps**, **MLOps**, and **Cybersecurity**.
+# Idriss Haroussi
+### Infrastructure & Production Systems Engineer
+
+**BUT Informatique @ UPEC** · Colombes, France · Seeking Apprenticeship Sept 2027
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/idriss-haroussi)
+[![GitHub](https://img.shields.io/badge/GitHub-idrisshrs-181717?style=flat&logo=github)](https://github.com/idrisshrs)
+
+</div>
 
 ---
 
-### Key Technical Expertise & Projects
+## About
 
-* **Production & Cloud Architecture (Kobenzo Wallet)** Designed and engineered a 3-tier microservices architecture in production: *React Native ➔ Ruby on Rails 6.1 (JWT Auth) ➔ FastAPI (AI Microservice) ➔ PostgreSQL 15*. Automated enterprise dependency patches and orchestrated full zero-downtime infrastructure migrations from AWS to Render cloud instances.
-* **Sovereign AI Infrastructure (Local-LLM-Infrastructure)** Conceived and deployed a fully private, containerized local LLM cluster running Ollama and Open WebUI on a dedicated VPS instance. Optimized resource allocation and network isolation to guarantee absolute data privacy and sub-2s inference latencies without external API reliance.
-* **Workflow Automation (Data Engineering)** Built intelligent, autonomous cron-based ETL data ingestion pipelines using Docker, n8n, and localized AI parsing agents to parse, score, and inject unstructured data directly into live relational systems.
+Second-year CS student at UPEC, currently interning at **Kobenzo Wallet** (April–June 2026).
+
+What I actually did there: built a market prediction microservice from scratch (RSI, MACD, Bollinger + RSS scraping), then migrated the full production stack from a dead AWS setup to Render — Rails, FastAPI, PostgreSQL, all three live.
+
+Focus areas: cloud infra, MLOps pipelines, system security. Not interested in research. Interested in things that run in production.
 
 ---
 
-### Toolsmith & Stack
+## Stack
 
-```debian
-# Core Infrastructure & Cloud
-├── OS           : Linux (Debian, Ubuntu), Windows Server
-├── Containers   : Docker, Docker Compose, Volume/Network Isolation
-└── Platforms    : Git, GitLab CI/CD, Render Ecosystem (Prepping AWS Solutions Architect Associate)
+```
+Infrastructure   Docker · Linux (Debian/Ubuntu) · Bash · VPS (Hetzner) · Render
+Backend          Ruby on Rails · FastAPI · Flask · Python · PostgreSQL · SQLite
+DevOps           Git · GitHub Actions · CI/CD · patch-package · Docker Compose
+MLOps            Ollama · Open WebUI · LLM deployment · Prompt Engineering
+Security         Kali Linux · Nmap · Wireshark · Metasploit · OSINT
+```
 
-# Backend Engineering & Databases
-├── Languages    : Python (FastAPI, Flask), Ruby (Rails 6.1), Java, C, SQL, Luau
-└── Databases    : PostgreSQL, SQLite, MySQL, Oracle SQL, Schema Design (MCD/MLD)
+---
 
-# Cybersecurity & Systems Audit
-└── Offensive    : Kali Linux, Nmap, Wireshark, Metasploit, Vulnerability Assessment, OSINT
+## Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [KPayment-Architecture-Case-Study](https://github.com/idrisshrs/KPayment-Architecture-Case-Study) | Rails · FastAPI · PostgreSQL · Docker · Render | Production crypto app: AI prediction module + cloud migration (internship) |
+| [Local-LLM-Infrastructure](https://github.com/idrisshrs/Local-LLM-Infrastructure) | Docker · Ollama · Debian · Open WebUI | Private LLM stack on personal VPS, no external API |
+| [Network-Vulnerability-Audit](https://github.com/idrisshrs/Network-Vulnerability-Audit) | Kali · Nmap · Metasploit · Wireshark | Offensive security audit on local infrastructure |
+| [Maritime-Data-Analytics-Platform](https://github.com/idrisshrs/Maritime-Data-Analytics-Platform) | Flask · PostgreSQL · Python · ETL | Water quality analytics platform with automated ingestion pipeline |
+| [Velib-Graph-Network-Optimizer](https://github.com/idrisshrs/Velib-Graph-Network-Optimizer) | Python · C · Kruskal · Delaunay | Graph optimization algorithms on Paris Vélib' network data |
+
+---
+
+## Currently
+
+```
+[ IN PROGRESS ]  AWS Certified Solutions Architect Associate
+[ NEXT ]         Kubernetes (CKA)
+[ ONGOING ]      TryHackMe — offensive security practice
+```
+
+---
+
+## What I'm Looking For
+
+**Apprenticeship starting September 2027** — Cloud/DevOps, MLOps/AI Infrastructure, or DevSecOps.
+
+Target: GAFAM Paris offices, Datadog, Scaleway, OVHcloud, Mistral AI, or any product company with real infrastructure problems.
+
+---
+
+<div align="center">
+<sub>Open to collaboration on infrastructure, DevOps, and security projects.</sub>
+</div>
